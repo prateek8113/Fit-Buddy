@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_givebuslocation">Givebuslocation</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="default_web_client_id">YOUR_DEFAULT_WEB_CLIENT_ID</string>
+
+</resources>

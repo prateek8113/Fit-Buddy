@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta</item>
+        <item>@font/amiri_bold</item>
+        <item>@font/antic_slab</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/aref_ruqaa_bold</item>
+        <item>@font/baloo_tamma_2_bold</item>
+        <item>@font/gudea_bold</item>
+    </array>
+</resources>
